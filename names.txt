@@ -1,2 +1,11 @@
 hari krishnan
 dushyanth raj
+
+-> to connect to the git ot github we have to create a new repo in the github and atach that url to the git repo
+
+->command : git remote add origin (url)
+-> git remote -v  (this will show what are the actions can we perform with this repo)
+
+
+to push the git repo into the github repo we use the command 
+command : git push origin master
