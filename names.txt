@@ -9,3 +9,9 @@ dushyanth raj
 
 to push the git repo into the github repo we use the command 
 command : git push origin master
+
+
+
+(git stash) is a command is used to seperately store our personal file other than our main project in onearea and then if we want to take back to our staging then we have to use the (git stash pop) 
+	
+if we dont want that stash then we can delete the datas by using (git stash clear) will 
